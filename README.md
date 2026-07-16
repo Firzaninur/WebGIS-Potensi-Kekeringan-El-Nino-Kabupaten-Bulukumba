@@ -1,1 +1,1 @@
-# WebGIS-Potensi-Kekeringan-El-Ni-o-Kabupaten-Bulukumba
+# WebGIS-Potensi-Kekeringan-El-Nino-Kabupaten-Bulukumba
